@@ -1,0 +1,15 @@
+.cartWrapper {
+    padding: 30px 0px;
+  }
+  .thumbImg {
+    max-width: 80px;
+  }
+  .textRight {
+    text-align: right;
+  }
+  .totalAmounttWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+  }
+  

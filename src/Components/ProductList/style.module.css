@@ -1,0 +1,17 @@
+.productListWrapper {
+    padding: 20px 0px;
+  }
+  .productListWrapper .card a .card-body .card-title {
+    color: #333;
+  }
+  .productListWrapper .card a .card-body .card-text {
+    color: #333;
+  }
+  a {
+    text-decoration: none;
+  }
+  .prodImg {
+    max-height: 250px;
+    object-fit: contain;
+  }
+  

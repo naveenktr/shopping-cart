@@ -1,0 +1,11 @@
+.loginWrapper {
+    background-color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 80vh;
+  }
+  .loginCard {
+    width: 320px;
+  }
+  
